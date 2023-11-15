@@ -9,6 +9,7 @@ CORE LOOP
 ## 무한 성장 채널
 - 무한 인게이지
 
+
 <br><br>
 CORE LOOP spec
 # 코어 루프 작업 리스트
