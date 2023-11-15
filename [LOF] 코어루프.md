@@ -9,7 +9,7 @@ CORE LOOP
 ## 무한 성장 채널
 - 무한 인게이지
 
-
+<br><br>
 CORE LOOP work list
 # 코어 루프의 세부 리스트
 ## 자동 사냥
