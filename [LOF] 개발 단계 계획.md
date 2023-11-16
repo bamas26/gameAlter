@@ -1,4 +1,10 @@
 
+# 단계별 계획
+ 1) CPI 테스트 단계
+  2) D1 테스트 단계
+  3) LTV 테스트 단계
+  4) 글로벌 런칭 단계
+
 ![image](https://github.com/bamas26/gameAlter/assets/25413433/becb99db-894a-47cc-b9d5-b1083d01f9ec)
 
 
